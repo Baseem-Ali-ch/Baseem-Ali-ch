@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Mini projects, particularly involving web development and e-commerce.**
 
-- 🌱 I’m currently learning **DSA (Data Structures and Algorithms).**
+- 🌱 I’m currently learning **Angular, NGRX and RxJs.**
 
 - 👯 I’m looking to collaborate on **Anything related to web development**
 
-- 🤝 I’m looking for help with **Improving my DSA skills and exploring new web development challenges.**
+- 🤝 I’m looking for help with **Improving my Angular skills and exploring new web development challenges.**
 
 - 👨‍💻 All of my projects are available at [https://baseem-ali-ch.github.io/Personal-Website-Portfolio/](https://baseem-ali-ch.github.io/Personal-Website-Portfolio/)
 
