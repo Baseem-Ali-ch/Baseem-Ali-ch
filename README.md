@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Audio Transcribe Web Applicaiton.<br><br>🌱 I’m currently learning Next.js<br><br>👯 I’m looking to collaborate on Anything related to web development<br><br>🤝 I’m looking for help with Improving my skills and exploring new web development challenges.<br><br>👨‍💻 Some of my projects are available at https://baseem-ali-ch-portfolio.vercel.app/<br><br>💬 Ask me about Anything.<br><br>📫 How to reach me https://www.linkedin.com/in/baseem-ali-ch-bbb21b2a8/<br><br>⚡ Fun fact I can learn anything!
+🔭 I’m currently working on Buisness Manage Application.<br><br>🌱 I’m currently learning AI<br><br>👯 I’m looking to collaborate on Anything related to web development<br><br>🤝 I’m looking for help with Improving my skills and exploring new web development challenges.<br><br>👨‍💻 Some of my projects are available at https://baseem-ali-ch-portfolio.vercel.app/<br><br>💬 Ask me about Anything.<br><br>📫 How to reach me https://www.linkedin.com/in/baseem-ali-ch-bbb21b2a8/<br><br>⚡ Fun fact I can learn anything!
 
 
 ## 🌐 Socials:
